@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff0f5; /* Fondo rosa pastel muy claro */
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffe4e1; /* Fondo del contenedor en rosa suave */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+h1, h2 {
+    text-align: center;
+    color: #d87093; /* Títulos en rosa fuerte */
+}
+
+.form-section {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+    color: #d87093; /* Texto de las etiquetas en rosa fuerte */
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #d87093; /* Bordes en rosa fuerte */
+    border-radius: 5px; /* Bordes redondeados */
+    background-color: #fff0f5; /* Fondo rosa claro */
+}
+
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #d87093; /* Fondo de botón en rosa fuerte */
+    color: #fff; /* Texto blanco */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #c71585; /* Rosa intenso al pasar el cursor */
+}
+
